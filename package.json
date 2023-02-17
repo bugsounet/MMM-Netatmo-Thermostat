@@ -1,14 +1,11 @@
 {
   "name": "MMM-Netatmo-Thermostat",
-  "version": "1.0.0",
+  "version": "0.0.0+EOL",
   "description": "Display Netatmo Thermostat State in MagicMirror",
   "main": "MMM-Netatmo-Thermostat.js",
   "author": "@bugsounet",
   "license": "MIT",
   "scripts": {
-    "setup": "node setup"
-  },
-  "dependencies": {
-    "netatmo": "2.4.0"
+    "preinstall": "echo This module is now in End Of Life."
   }
 }
