@@ -1,3 +1,3 @@
 # MMM-Netatmo-Thermostat
 
-## This module is now in End Of Life.
+## This module is for my private using
